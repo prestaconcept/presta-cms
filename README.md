@@ -28,10 +28,19 @@ Administration is under /admin
 :speech_balloon: If you need help about this project you can [post a message on our google group](https://groups.google.com/forum/?hl=fr&fromgroups#!forum/prestacms-devs)
 
 
+## Contributing
+
+Pull requests are welcome.
+
+Thanks to
+[everyone who has contributed](https://github.com/prestaconcept/presta-cms/graphs/contributors) already.
+
 ---
 
 *This project is supported by [PrestaConcept](http://www.prestaconcept.net)*
+**Lead Developer** : [@nicolas-bastien](https://github.com/nicolas-bastien)
 
+Released under the MIT License
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/prestaconcept/presta-cms/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
