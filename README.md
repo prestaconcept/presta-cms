@@ -1,6 +1,9 @@
 Presta CMS
 =============
 
+[![Build Status](https://secure.travis-ci.org/prestaconcept/presta-cms.png?branch=master)](http://travis-ci.org/prestaconcept/presta-cms)
+[![Latest Stable Version](https://poser.pugx.org/presta/presta-cms/v/stable.png)](https://packagist.org/packages/presta/presta-cms)
+[![Total Downloads](https://poser.pugx.org/presta/presta-cms/downloads.png)](https://packagist.org/packages/presta/presta-cms)
 
 ## Overview ##
 
