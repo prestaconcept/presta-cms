@@ -28,3 +28,7 @@ Administration is under /admin
 ---
 
 *This project is supported by [PrestaConcept](http://www.prestaconcept.net)*
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/prestaconcept/presta-cms/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
