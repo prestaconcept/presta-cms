@@ -38,6 +38,7 @@ Thanks to
 ---
 
 *This project is supported by [PrestaConcept](http://www.prestaconcept.net)*
+
 **Lead Developer** : [@nicolas-bastien](https://github.com/nicolas-bastien)
 
 Released under the MIT License
