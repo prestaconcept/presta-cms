@@ -22,6 +22,9 @@ http://sandbox.prestacms.com and http://sandbox.prestacms.fr
 
 Administration is under /admin
 
+## Issue tracker ##
+
+:clipboard: Issues are managed in [prestaconcept/open-source-management](https://github.com/prestaconcept/open-source-management) to centralize our open source activity.
 
 ## Ask for help ##
 
