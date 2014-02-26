@@ -17,9 +17,13 @@
         "symfony/framework-bundle": "~2.2",
         "doctrine/doctrine-fixtures-bundle": "v2.2.0",
         "presta/cms-core-bundle": "1.0.*",
-        "presta/cms-media-bundle":"1.0.*",
-        "presta/cms-theme-basic-bundle":"1.0.*",
-        "presta/cms-contact-bundle":"1.0.*"
+        "presta/cms-media-bundle": "1.0.*",
+        "presta/cms-theme-basic-bundle": "1.0.*",
+        "presta/cms-contact-bundle": "1.0.*",
+        "presta/cms-ckeditor-bundle": "1.0.*",
+        "presta/cms-sitemap-bridge-bundle": "1.0.*",
+        "presta/cms-social-bundle": "1.0.*",
+        "presta/cms-user-bundle": "1.0.*"
     },
     "suggest": {
         "presta/sitemap-bundle": "To generate your sitemaps",
